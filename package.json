@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog",
+  "name": "employee-tracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OwaisIslam/tech-blog.git"
+    "url": "git+https://github.com/MirMello/employee-tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OwaisIslam/tech-blog/issues"
+    "url": "https://github.com/MirMello/employee-tracker/issues"
   },
-  "homepage": "https://github.com/OwaisIslam/tech-blog#readme"
+  "homepage": "https://github.com/MirMello/employee-tracker#readme"
 }
