@@ -7,6 +7,10 @@ An app that helps organize employees
 * mySQL
 * Routes
 
+## Deployment
+
+![Screenshot of Employee Table](https://user-images.githubusercontent.com/96323393/188281010-7ed15c8e-8fc0-48f5-a9f7-24ec5797070a.jpg)
+
 ## Installation Instructions
 1. run: git pull origin main in terminal
 2. change the db/connection.js file to match your mysql server
